@@ -1,5 +1,3 @@
-package SoftwareTestingPractical;
-
 import java.util.Scanner;
 
 public class CommissionProgram {
